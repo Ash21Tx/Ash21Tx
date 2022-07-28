@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ash21Tx
 - 👀 I’m interested in building scripts to disect financial articles to gain insights. 
 - 🌱 I’m currently learning learning python scripting to automate this process.
-- 💞️ I’m looking to collaborate on anykind of text mining to show true value of numbers in the text they contain. 
+- 💞️ I’m looking to collaborate on anykind of text mining to show true impacts of numbers in the text they contain. 
 - 📫 How to reach me @Ash21TX
 
 <!---
